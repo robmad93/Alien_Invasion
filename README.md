@@ -11,9 +11,9 @@
 - Fullscreen mode for an immersive experience.
 - A "Play" button to start the game.
 
-## Screenshots
+## Screenshot
 
-![start_screen](https://github.com/robmad93/Alien_Invasion/assets/131868277/81c288b4-643f-4e1b-81f0-43b08226bcf1)
+![gameplay_screenshot](https://github.com/robmad93/Alien_Invasion/assets/131868277/c6f31c0a-9198-4da8-b6a8-6b5bb51b3efd)
 
 
 ## Installation
