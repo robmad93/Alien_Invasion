@@ -1,4 +1,4 @@
-"# Alien_Invasion" 
+# Alien_Invasion 
 ## Overview
 
 **Alien Invasion** is a simple yet engaging game inspired by the classic "Space Invaders". This is my first game project, and it follows a tutorial from Eric Matthes' "Python Crash Course, 2nd Edition". The game involves controlling a ship to shoot down waves of aliens before they reach the bottom of the screen.
